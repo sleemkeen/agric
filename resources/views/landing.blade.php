@@ -243,19 +243,19 @@
 
 
             <!-- JS FILES // These should be loaded in every page -->
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/bootstrap.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/kl-plugins.js"></script>
+            <script type="text/javascript" src="js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="js/kl-plugins.js"></script>
 
             <!-- JS FILES // Loaded on this page -->
             <!-- Required js scripts files for Revolution Slider element -->
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/jquery.themepunch.tools.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/jquery.themepunch.revolution.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/extensions/revolution.extension.layeranimation.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/extensions/revolution.extension.navigation.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/extensions/revolution.extension.slideanims.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/extensions/revolution.extension.actions.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/extensions/revolution.extension.parallax.min.js"></script>
-            <script type="text/javascript" src="http://myzone.themeforest.netdna-cdn.com/js/plugins/_sliders/revolution-slider/extensions/revolution.extension.video.min.js"></script>
+            <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
+            <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+            <script type="text/javascript" src="js/revolution.extension.layeranimation.min.js"></script>
+            <script type="text/javascript" src="js/revolution.extension.navigation.min.js"></script>
+            <script type="text/javascript" src="js/revolution.extension.slideanims.min.js"></script>
+            <script type="text/javascript" src="js/revolution.extension.actions.min.js"></script>
+            <script type="text/javascript" src="js/revolution.extension.parallax.min.js"></script>
+            <script type="text/javascript" src="js/revolution.extension.video.min.js"></script>
 
             <!-- Required js trigger for Revolution Slider element -->
             <script type="text/javascript">
